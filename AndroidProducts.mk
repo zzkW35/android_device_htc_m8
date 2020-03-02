@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_m8.mk
+    $(LOCAL_DIR)/statix_m8.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_m8-user \
-    lineage_m8-userdebug \
-    lineage_m8-eng
+    statix_m8-user \
+    statix_m8-userdebug \
+    statix_m8-eng
